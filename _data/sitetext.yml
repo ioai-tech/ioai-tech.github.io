@@ -102,13 +102,13 @@ en: &DEFAULT_EN
       - name: "Chen Xiangyu"
         role: "CEO"
         desc: "<b>Whaha</b>"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/chenxy.png
       - name: "Xu Liangwei"
         role: "Lead Developer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/xulw.png
       - name: "Liu Ning"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/liun.png
       - name: "Zhao Feiyu"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
