@@ -77,19 +77,19 @@ en: &DEFAULT_EN
       - name: "Chen Xiangyu"
         role: ""
         desc: "Chen Xiangyu is a robotics expert and a Ph.D. graduate from the University of Tokyo. Chen has published dozens of papers in leading robotic journals and top international conferences. Chen has represented the University of Tokyo in renowned international robotics competitions such as DRC and MBZIRC."
-        image: assets/img/team/chenxy.png
+        image: assets/img/team/chenxy.jpg
       - name: "Xu Liangwei"
         role: ""
         desc: "Xu Liangwei is an expert in autonomous driving and robot software. He graduates from the Department of Intelligent Science at Peking University. Xu specializes in the research and development of robotic systems and robot middleware. He has been involved in multiple unmanned systems projects."
-        image: assets/img/team/xulw.png
+        image: assets/img/team/xulw.jpg
       - name: "Liu Ning"
         role: ""
         desc: "Liu Ning holds a Ph.D. from the University of Tokushima. His research focuses on affective computing and humanoid robotics, as well as natural language processing and multimodal domains. Liu has published dozens of research papers. He was awarded the IEEE NLP-KE Best Paper."
-        image: assets/img/team/liun.png
+        image: assets/img/team/liun.jpg
       - name: "Zhao Feiyu"
         role: ""
         desc: "Master’s degree in Intelligent Mechanical Engineering from the University of Tokyo. Has participated in the Toyota HSR and THK’s domestic support robot projects, as well as the smart robot convenience store project."
-        image: assets/img/team/zhaofy.png
+        image: assets/img/team/zhaofy.jpg
       - name: "Cao Yue"
         role: ""
         desc: "Master of Engineering in MECE Robot Control from Columbia University, proficient in task motion planning and control for robots, including both traditional algorithms and deep reinforcement learning methods."
