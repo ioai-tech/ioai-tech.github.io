@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: General Robot Model
+subtitle: 
+image: assets/img/portfolio/03-thumbnail.jpg
 alt: 
 
 caption:
@@ -9,10 +9,10 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Please wait our big news.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: Nov. 2023
+- Category: Projects
 

@@ -88,10 +88,12 @@ en: &DEFAULT_EN
         image: assets/img/team/liun.png
       - name: "Zhao Feiyu"
         role: ""
-        image: assets/img/team/500x500.jpg
+        desc: "Master’s degree in Intelligent Mechanical Engineering from the University of Tokyo. Has participated in the Toyota HSR and THK’s domestic support robot projects, as well as the smart robot convenience store project."
+        image: assets/img/team/zhaofy.png
       - name: "Cao Yue"
         role: ""
-        image: assets/img/team/500x500.jpg
+        desc: "Master of Engineering in MECE Robot Control from Columbia University, proficient in task motion planning and control for robots, including both traditional algorithms and deep reinforcement learning methods."
+        image: assets/img/team/caoy.jpg
 
   contact:
     title: "Contact Us"
@@ -125,11 +127,11 @@ en: &DEFAULT_EN
     social:
       - url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxMjUwOTEzNg==&action=getalbum&album_id=3011498258222825473&scene=173&from_msgid=2247484246&from_itemidx=1&count=3
         icon: "fab fa-weixin"
-      - url: https://bilibili.com
-        icon: "fab fa-bilibili"
-      - url: https://zhihu.com
+      # - url: https://bilibili.com
+      #   icon: "fab fa-bilibili"
+      - url: https://www.zhihu.com/people/hua-la-la-la-60
         icon: "fab fa-zhihu"
-      - url: https://github.com
+      - url: https://github.com/io-intelligence
         icon: "fab fa-github"
 
 en-US:
