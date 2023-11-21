@@ -1,16 +1,16 @@
 ---
 title: Embodied Data
 subtitle: 
-image: assets/img/portfolio/02-thumbnail.jpg
+image: assets/img/portfolio/data2.png
 alt: Embodied Data
 
 caption:
   title: Embodied Data
   subtitle: 
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/data1.png
 ---
 
-Please wait our big news.
+We provide high quality embodiment data of varies scenes.
 
 {:.list-inline}
 - Date: Sep. 2023
