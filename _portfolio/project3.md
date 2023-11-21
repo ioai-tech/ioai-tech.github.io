@@ -10,7 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 
-Please wait our big news.
+Check our Opensource repo
+
+https://github.com/ioai-tech/pytorch_rt1_with_trainer_and_tester
 
 {:.list-inline}
 - Date: Nov. 2023

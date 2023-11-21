@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Empowering the future with AI innovation
-    text: Make a difference
+    title: Empowering the future with AI&Robotics innovation
+    text: IO the World
     button: Tell Me More
     buttonlink: "#services"
 
@@ -44,23 +44,23 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Beginnings"
+      - title: "Beginning"
         year: "2023.05.04"
         desc: "The company was established"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/start.jpg
         alt:
-      - title: "New Team Member"
-        year: "2023.06.01"
-        desc: "We formed the initial team consisting of five members."
-        image: assets/img/timeline/2.jpg
+      - title: "MileStone"
+        year: "2023.10.01"
+        desc: "Embodiment data demo with our new devices"
+        image: assets/img/timeline/milestone.gif
         alt:
-      - title: "New Office"
-        year: "2023.09.09"
-        desc: "We moved to the new office."
-        image: assets/img/timeline/4.jpg
+      - title: "ICRA2024"
+        year: "2024.06"
+        desc: "We plan to show our progress in the ICRA, see u in Yokohama"
+        image: assets/img/timeline/icra2024.jpg
         alt:
         # align: left
-    end: "<br/>Bright Future!"
+    end: "<br/>IO the World"
 
   about:
     title: "About Us"
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     section: about
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "OUR TEAM"
     text: ""
     subtext: What we want is to make something different
     section: team
