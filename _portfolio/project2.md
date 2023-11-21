@@ -1,13 +1,13 @@
 ---
 title: Embodied Data
 subtitle: 
-image: assets/img/portfolio/data2.png
+image: assets/img/portfolio/data1.png
 alt: Embodied Data
 
 caption:
   title: Embodied Data
   subtitle: 
-  thumbnail: assets/img/portfolio/data1.png
+  thumbnail: assets/img/portfolio/data2.png
 ---
 
 We provide high quality embodiment data of varies scenes.
