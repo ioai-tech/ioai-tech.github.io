@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: ""
     section: contact
-    desc: 
+    desc:
       "Email: [io@io-ai.tech](mailto:io@io-ai.tech)<br>
        Phone: (+86) 0755-86658865"
 
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
       #   icon: "fab fa-bilibili"
       - url: https://www.zhihu.com/people/hua-la-la-la-60
         icon: "fab fa-zhihu"
-      - url: https://github.com/io-intelligence
+      - url: http://github.com/ioai-tech
         icon: "fab fa-github"
 
 en-US:
