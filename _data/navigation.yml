@@ -31,3 +31,18 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+zh-CN:
+  nav:
+    - title: "服务"
+      section: services
+    - title: "产品"
+      section: portfolio
+    - title: "介绍"
+      section: about
+    - title: "时间线"
+      section: timeline
+    - title: "团队"
+      section: team
+    - title: "联系我们"
+      section: contact

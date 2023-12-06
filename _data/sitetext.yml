@@ -142,3 +142,128 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+zh-CN:
+  header:
+    title: 这是最好的时代，也是最坏的时代
+    text: IO the World
+    button: 了解更多
+    buttonlink: "#services"
+
+  services:
+    title: "服务"
+    text: ""
+    section: services
+    list:
+      - title: "数据"
+        desc: "We designed a high-precision and high-density embodied data collection solution that supports highly flexible data acquisition for tasks involving grasping, mobility, and complex interactions. "
+        icon: fas fa-database #find more at https://fontawesome.com/icons
+      - title: "AI模型"
+        desc: "With the advent of large-scale data, we aim to launch a universal model for the robotics industry. This initiative is aimed at revolutionizing the field and addressing the evolving needs of the industry."
+        icon: fas fa-robot
+      - title: "集成方案"
+        desc: "Building upon the large-scale data production, we aim to establish foundational standards for various robots. Additionally, we will develop a fundamental simulation platform to drive intelligent data collection across all domains. "
+        icon: fas fa-rocket
+
+  portfolio:
+    title: "产品"
+    text: "What we have done."
+    section: portfolio
+    closebutton: "关闭"
+
+  timeline:
+    title: "时间线"
+    text: "Our Story"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Beginning"
+        year: "2023.05.04"
+        desc: "The company was established"
+        image: assets/img/timeline/start.jpg
+        alt:
+      - title: "MileStone"
+        year: "2023.10.01"
+        desc: "Embodiment data demo with our new devices"
+        image: assets/img/timeline/milestone.gif
+        alt:
+      - title: "ICRA2024"
+        year: "2024.06"
+        desc: "We plan to show our progress in the ICRA, see u in Yokohama"
+        image: assets/img/timeline/icra2024.jpg
+        alt:
+        # align: left
+    end: "<br/>IO the World"
+
+  about:
+    title: "关于我们"
+    text: ""
+    body: "IO-AI is a foundational scene data provider and solution verification expert for global AI and robotics research enterprises and institutions, based in Shenzhen. IO-AI was founded by experts in the robotic and AI industries and builds foundational datasets for different application scenarios through embodied data collection."
+    section: about
+
+  team:
+    title: "团队"
+    text: ""
+    subtext: What we want is to make something different
+    section: team
+    people:
+      - name: "Chen Xiangyu"
+        role: ""
+        desc: "Chen Xiangyu is a robotics expert and a Ph.D. graduate from the University of Tokyo. Chen has published dozens of papers in leading robotic journals and top international conferences. Chen has represented the University of Tokyo in renowned international robotics competitions such as DRC and MBZIRC."
+        image: assets/img/team/chenxy.jpg
+      - name: "Xu Liangwei"
+        role: ""
+        desc: "Xu Liangwei is an expert in autonomous driving and robot software. He graduates from the Department of Intelligent Science at Peking University. Xu specializes in the research and development of robotic systems and robot middleware. He has been involved in multiple unmanned systems projects."
+        image: assets/img/team/xulw.jpg
+      - name: "Liu Ning"
+        role: ""
+        desc: "Liu Ning holds a Ph.D. from the University of Tokushima. His research focuses on affective computing and humanoid robotics, as well as natural language processing and multimodal domains. Liu has published dozens of research papers. He was awarded the IEEE NLP-KE Best Paper."
+        image: assets/img/team/liun.jpg
+      - name: "Zhao Feiyu"
+        role: ""
+        desc: "Master’s degree in Intelligent Mechanical Engineering from the University of Tokyo. Has participated in the Toyota HSR and THK’s domestic support robot projects, as well as the smart robot convenience store project."
+        image: assets/img/team/zhaofy.jpg
+      - name: "Cao Yue"
+        role: ""
+        desc: "Master of Engineering in MECE Robot Control from Columbia University, proficient in task motion planning and control for robots, including both traditional algorithms and deep reinforcement learning methods."
+        image: assets/img/team/caoy.jpg
+
+  contact:
+    title: "联系我们"
+    text: ""
+    section: contact
+    desc:
+      "邮件: [io@io-ai.tech](mailto:io@io-ai.tech)<br>
+       电话: (+86) 0755-86658865"
+
+  clients:
+    # title: "Clients"
+    section: clients
+    max-height: 10px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "placeholder"
+        url: https://io-ai.tech
+        logo: assets/img/clients/placeholder.png
+      # - title: "designmodo"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/designmodo.jpg
+      # - title: "themeforest"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/themeforest.jpg
+      # - title: "Creative Market"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/creative-market.jpg
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxMjUwOTEzNg==&action=getalbum&album_id=3011498258222825473&scene=173&from_msgid=2247484246&from_itemidx=1&count=3
+        icon: "fab fa-weixin"
+      # - url: https://bilibili.com
+      #   icon: "fab fa-bilibili"
+      - url: https://www.zhihu.com/people/hua-la-la-la-60
+        icon: "fab fa-zhihu"
+      - url: http://github.com/ioai-tech
+        icon: "fab fa-github"
