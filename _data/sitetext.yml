@@ -145,7 +145,7 @@ en-AU:
 
 zh-CN:
   header:
-    title: 这是最好的时代，也是最坏的时代
+    title: 用AI和机器人创新赋予未来力量
     text: IO the World
     button: 了解更多
     buttonlink: "#services"
@@ -156,18 +156,18 @@ zh-CN:
     section: services
     list:
       - title: "数据"
-        desc: "We designed a high-precision and high-density embodied data collection solution that supports highly flexible data acquisition for tasks involving grasping, mobility, and complex interactions. "
+        desc: "我们设计了一种高精度和高密度的具身数据采集解决方案，支持在涉及抓取、移动性和复杂互动的任务中进行高度灵活的数据采集。"
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "AI模型"
-        desc: "With the advent of large-scale data, we aim to launch a universal model for the robotics industry. This initiative is aimed at revolutionizing the field and addressing the evolving needs of the industry."
+        desc: "随着大规模数据的出现，我们旨在推出一个适用于机器人行业的跨构型通用模型。这一倡议旨在为行业提供改革，满足行业不断发展的需求。"
         icon: fas fa-robot
       - title: "集成方案"
-        desc: "Building upon the large-scale data production, we aim to establish foundational standards for various robots. Additionally, we will develop a fundamental simulation platform to drive intelligent data collection across all domains. "
+        desc: "基于大规模数据生产，我们旨在为各种机器人建立基础标准。此外，我们将开发一个仿真平台，推动跨领域的智能数据采集。"
         icon: fas fa-rocket
 
   portfolio:
     title: "产品"
-    text: "What we have done."
+    text: ""
     section: portfolio
     closebutton: "关闭"
 
@@ -178,19 +178,19 @@ zh-CN:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Beginning"
+      - title: "开端"
         year: "2023.05.04"
-        desc: "The company was established"
+        desc: "公司成立！"
         image: assets/img/timeline/start.jpg
         alt:
-      - title: "MileStone"
+      - title: "里程碑"
         year: "2023.10.01"
-        desc: "Embodiment data demo with our new devices"
+        desc: "自研设备的第一个 Demo"
         image: assets/img/timeline/milestone.gif
         alt:
-      - title: "ICRA2024"
+      - title: "ICRA 2024"
         year: "2024.06"
-        desc: "We plan to show our progress in the ICRA, see u in Yokohama"
+        desc: "我们将会在ICRA 2024展示成果，敬请期待"
         image: assets/img/timeline/icra2024.jpg
         alt:
         # align: left
@@ -199,34 +199,34 @@ zh-CN:
   about:
     title: "关于我们"
     text: ""
-    body: "IO-AI is a foundational scene data provider and solution verification expert for global AI and robotics research enterprises and institutions, based in Shenzhen. IO-AI was founded by experts in the robotic and AI industries and builds foundational datasets for different application scenarios through embodied data collection."
+    body: "IO-AI位于深圳，作为基础场景数据提供商和解决方案提供商，由机器人和人工智能行业的专家创立，通过具身数据采集为不同应用场景提供数据和基础工具。"
     section: about
 
   team:
-    title: "团队"
+    title: "团队成员"
     text: ""
-    subtext: What we want is to make something different
+    subtext: 我们的目标是创造与众不同
     section: team
     people:
-      - name: "Chen Xiangyu"
+      - name: "陈相羽"
         role: ""
-        desc: "Chen Xiangyu is a robotics expert and a Ph.D. graduate from the University of Tokyo. Chen has published dozens of papers in leading robotic journals and top international conferences. Chen has represented the University of Tokyo in renowned international robotics competitions such as DRC and MBZIRC."
+        desc: "机器人领域专家，于东京大学获得博士学位，在领先的机器人期刊和国际顶级会议上发表了数十篇论文，曾代表东京大学参加了著名的国际机器人竞赛，如DRC和MBZIRC。"
         image: assets/img/team/chenxy.jpg
-      - name: "Xu Liangwei"
+      - name: "徐良威"
         role: ""
-        desc: "Xu Liangwei is an expert in autonomous driving and robot software. He graduates from the Department of Intelligent Science at Peking University. Xu specializes in the research and development of robotic systems and robot middleware. He has been involved in multiple unmanned systems projects."
+        desc: "机器人软件专家，毕业于北京大学智能科学系,专注于机器人系统和机器人中间件的研究与开发，曾参与过多个无人系统项目。"
         image: assets/img/team/xulw.jpg
-      - name: "Liu Ning"
+      - name: "刘宁"
         role: ""
-        desc: "Liu Ning holds a Ph.D. from the University of Tokushima. His research focuses on affective computing and humanoid robotics, as well as natural language processing and multimodal domains. Liu has published dozens of research papers. He was awarded the IEEE NLP-KE Best Paper."
+        desc: "德岛大学博士，研究情感计算和人形机器人以及自然语言处理和多模态，曾发表了数十篇研究论文，并荣获IEEE NLP-KE最佳论文奖。"
         image: assets/img/team/liun.jpg
-      - name: "Zhao Feiyu"
+      - name: "赵飞宇"
         role: ""
-        desc: "Master’s degree in Intelligent Mechanical Engineering from the University of Tokyo. Has participated in the Toyota HSR and THK’s domestic support robot projects, as well as the smart robot convenience store project."
+        desc: "东京大学智能机械工程的硕士，曾参与丰田HSR和THK的国内支援机器人项目以及智能机器人便利店项目。"
         image: assets/img/team/zhaofy.jpg
-      - name: "Cao Yue"
+      - name: "曹玥"
         role: ""
-        desc: "Master of Engineering in MECE Robot Control from Columbia University, proficient in task motion planning and control for robots, including both traditional algorithms and deep reinforcement learning methods."
+        desc: "哥伦比亚大学机械工程中的MECE机器人控制专业硕士，精通机器人的任务运动规划和控制，包括传统算法和深度强化学习方法。"
         image: assets/img/team/caoy.jpg
 
   contact:

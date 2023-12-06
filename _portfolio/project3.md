@@ -23,6 +23,17 @@ zh-CN:
 
 ---
 
+{% if site.locale == "zh-CN" %}
+
+请前往[Github](https://github.com/ioai-tech/pytorch_rt1_with_trainer_and_tester)查看我们的开源项目。
+
+
+日期：2023年11月
+
+{% else %}
+
+
+
 Check our Opensource repo
 
 https://github.com/ioai-tech/pytorch_rt1_with_trainer_and_tester
@@ -31,3 +42,4 @@ https://github.com/ioai-tech/pytorch_rt1_with_trainer_and_tester
 - Date: Nov. 2023
 - Category: Projects
 
+{% endif %}
