@@ -23,6 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
+    - title: 中文
+      url: /zh-cn
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -46,3 +48,5 @@ zh-CN:
       section: team
     - title: "联系我们"
       section: contact
+    - title: EN
+      url: /en
