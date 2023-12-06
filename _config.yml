@@ -14,7 +14,7 @@
 # theme: jekyll-agency
 remote_theme: io-intelligence/agency-jekyll-theme
 
-url    : "io-ai.tech" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://io-ai.tech" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : IO-AI.tech
@@ -26,7 +26,6 @@ logo:     #optional, defaults to site title
   height: 50 #height in px, defaults to 52px
 
 locale: "zh-CN" # See available languages in _data/sitetext.yml
-# locale: "en" # See available languages in _data/sitetext.yml
 
 analytics:
   google: "G-CD6Y0KS9CM" #Google Analytics tracking code here
