@@ -78,6 +78,10 @@ en: &DEFAULT_EN
         role: ""
         desc: "Chen Xiangyu is a robotics expert and a Ph.D. graduate from the University of Tokyo. Chen has published dozens of papers in leading robotic journals and top international conferences. Chen has represented the University of Tokyo in renowned international robotics competitions such as DRC and MBZIRC."
         image: assets/img/team/chenxy.jpg
+      - name: "Shi Fan"
+        role: ""
+        desc: "Robotics expert, Ph.D. from the University of Tokyo, postdoctoral researcher at the Swiss Federal Institute of Technology in Zurich (ETH), has published dozens of papers in prominent robotics journals and top international conferences. Proficient in robot reinforcement learning control and robot simulation."
+        image: assets/img/team/shifan.jpg
       - name: "Xu Liangwei"
         role: ""
         desc: "Xu Liangwei is an expert in autonomous driving and robot software. He graduates from the Department of Intelligent Science at Peking University. Xu specializes in the research and development of robotic systems and robot middleware. He has been involved in multiple unmanned systems projects."
@@ -86,14 +90,6 @@ en: &DEFAULT_EN
         role: ""
         desc: "Liu Ning holds a Ph.D. from the University of Tokushima. His research focuses on affective computing and humanoid robotics, as well as natural language processing and multimodal domains. Liu has published dozens of research papers. He was awarded the IEEE NLP-KE Best Paper."
         image: assets/img/team/liun.jpg
-      - name: "Zhao Feiyu"
-        role: ""
-        desc: "Master’s degree in Intelligent Mechanical Engineering from the University of Tokyo. Has participated in the Toyota HSR and THK’s domestic support robot projects, as well as the smart robot convenience store project."
-        image: assets/img/team/zhaofy.jpg
-      - name: "Cao Yue"
-        role: ""
-        desc: "Master of Engineering in MECE Robot Control from Columbia University, proficient in task motion planning and control for robots, including both traditional algorithms and deep reinforcement learning methods."
-        image: assets/img/team/caoy.jpg
 
   contact:
     title: "Contact Us"
@@ -125,7 +121,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxMjUwOTEzNg==&action=getalbum&album_id=3011498258222825473&scene=173&from_msgid=2247484246&from_itemidx=1&count=3
+      - url: https://mp.weixin.qq.com/mp/homepage?__biz=MzkxMjUwOTEzNg==&hid=1&sn=ab193a4310e68757116941cf3efa1725
         icon: "fab fa-weixin"
       # - url: https://bilibili.com
       #   icon: "fab fa-bilibili"
@@ -212,6 +208,10 @@ zh-CN:
         role: ""
         desc: "机器人领域专家，于东京大学获得博士学位，在领先的机器人期刊和国际顶级会议上发表了数十篇论文，曾代表东京大学参加了著名的国际机器人竞赛，如DRC和MBZIRC。"
         image: assets/img/team/chenxy.jpg
+      - name: "石凡"
+        role: ""
+        desc: "机器人专家，东京大学博士，苏黎世联邦理工（ETH）博士后，在机器人核心刊物及国际顶会上发表数十篇论文；早期机器人自媒体——机器人学家公众号发起人。"
+        image: assets/img/team/shifan.jpg
       - name: "徐良威"
         role: ""
         desc: "机器人软件专家，毕业于北京大学智能科学系,专注于机器人系统和机器人中间件的研究与开发，曾参与过多个无人系统项目。"
@@ -220,14 +220,7 @@ zh-CN:
         role: ""
         desc: "德岛大学博士，研究情感计算和人形机器人以及自然语言处理和多模态，曾发表了数十篇研究论文，并荣获IEEE NLP-KE最佳论文奖。"
         image: assets/img/team/liun.jpg
-      - name: "赵飞宇"
-        role: ""
-        desc: "东京大学智能机械工程的硕士，曾参与丰田HSR和THK的国内支援机器人项目以及智能机器人便利店项目。"
-        image: assets/img/team/zhaofy.jpg
-      - name: "曹玥"
-        role: ""
-        desc: "哥伦比亚大学机械工程中的MECE机器人控制专业硕士，精通机器人的任务运动规划和控制，包括传统算法和深度强化学习方法。"
-        image: assets/img/team/caoy.jpg
+
 
   contact:
     title: "联系我们"
@@ -259,7 +252,7 @@ zh-CN:
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxMjUwOTEzNg==&action=getalbum&album_id=3011498258222825473&scene=173&from_msgid=2247484246&from_itemidx=1&count=3
+      - url: https://mp.weixin.qq.com/mp/homepage?__biz=MzkxMjUwOTEzNg==&hid=1&sn=ab193a4310e68757116941cf3efa1725
         icon: "fab fa-weixin"
       # - url: https://bilibili.com
       #   icon: "fab fa-bilibili"
