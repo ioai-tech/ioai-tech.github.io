@@ -55,7 +55,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/milestone.gif
         alt:
       - title: "ICRA2024"
-        year: "2024.06"
+        year: "2024.05"
         desc: "We plan to show our progress in the ICRA, see u in Yokohama"
         image: assets/img/timeline/icra2024.jpg
         alt:
@@ -185,7 +185,7 @@ zh-CN:
         image: assets/img/timeline/milestone.gif
         alt:
       - title: "ICRA 2024"
-        year: "2024.06"
+        year: "2024.05"
         desc: "我们将会在ICRA 2024展示成果，敬请期待"
         image: assets/img/timeline/icra2024.jpg
         alt:
