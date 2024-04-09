@@ -1,12 +1,12 @@
 ---
 en:
-  title: Motion Capture Device
+  title: Data Acquisition Suite
   subtitle:
   image: assets/img/portfolio/device.jpg
   alt: Motion Capture Device
 
   caption:
-    title: Motion Capture Device
+    title: Data Acquisition Suite
     subtitle:
     thumbnail: assets/img/portfolio/device-thumbnail.jpg
 

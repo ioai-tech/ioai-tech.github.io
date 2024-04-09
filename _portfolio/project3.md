@@ -1,45 +1,40 @@
 ---
 en:
-  title: General Robot Model
+  title: Multi-modal Data Annotation System
   subtitle:
-  image: assets/img/portfolio/03-thumbnail.jpg
+  image: assets/img/portfolio/data.jpg
   alt:
 
   caption:
-    title: General Robot Model
+    title: Multi-modal Data Annotation System
     subtitle:
-    thumbnail: assets/img/portfolio/03-thumbnail.jpg
+    thumbnail: assets/img/portfolio/data-thumbnail.jpg
 
 zh-CN:
-  title: 通用机器人模型
+  title: 多模态数据标注系统
   subtitle:
-  image: assets/img/portfolio/03-thumbnail.jpg
+  image: assets/img/portfolio/data.jpg
   alt:
 
   caption:
-    title: 通用机器人模型
+    title: 多模态数据标注系统
     subtitle:
-    thumbnail: assets/img/portfolio/03-thumbnail.jpg
+    thumbnail: assets/img/portfolio/data-thumbnail.jpg
 
 ---
 
 {% if site.locale == "zh-CN" %}
 
-请前往[Github](https://github.com/ioai-tech/pytorch_rt1_with_trainer_and_tester)查看我们的开源项目。
+我们开发了一个数据标注系统，能够完成人在回路的具身智能数据的标注。
 
-
-日期：2023年11月
+日期：2024年01月
 
 {% else %}
 
-
-
-Check our Opensource repo
-
-https://github.com/ioai-tech/pytorch_rt1_with_trainer_and_tester
+We developed a data annotation system that can complete the embodied data annotation of human in loop.
 
 {:.list-inline}
-- Date: Nov. 2023
+- Date: Jan. 2024
 - Category: Projects
 
 {% endif %}

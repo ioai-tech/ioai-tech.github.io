@@ -49,10 +49,15 @@ en: &DEFAULT_EN
         desc: "The company was established"
         image: assets/img/timeline/start.jpg
         alt:
-      - title: "MileStone"
+      - title: "Data milestone"
         year: "2023.10.01"
         desc: "Embodiment data demo with our new devices"
         image: assets/img/timeline/milestone.gif
+        alt:
+      - title: "Teleopration system"
+        year: "2024.01.15"
+        desc: "Complete a set of robot teleoperation system"
+        image: assets/img/timeline/teleoperation.jpg
         alt:
       - title: "ICRA2024"
         year: "2024.05"
@@ -179,10 +184,15 @@ zh-CN:
         desc: "公司成立！"
         image: assets/img/timeline/start.jpg
         alt:
-      - title: "里程碑"
+      - title: "数据采集里程碑"
         year: "2023.10.01"
         desc: "自研设备的第一个 Demo"
         image: assets/img/timeline/milestone.gif
+        alt:
+      - title: "遥操作系统"
+        year: "2024.01.15"
+        desc: "完成一套机器人遥操作系统"
+        image: assets/img/timeline/teleoperation.jpg
         alt:
       - title: "ICRA 2024"
         year: "2024.05"
