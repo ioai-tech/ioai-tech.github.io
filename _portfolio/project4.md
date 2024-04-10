@@ -1,19 +1,19 @@
 ---
 en:
-  title: Robot Teleoperation System
+  title: Teleoperation System
   subtitle:
-  image: assets/img/portfolio/teleoperation-thumbnail.jpg
+  image: assets/img/portfolio/teleoperation.jpg
   alt:
 
   caption:
-    title: Robot Teleoperation System
+    title: Teleoperation System
     subtitle:
     thumbnail: assets/img/portfolio/teleoperation-thumbnail.jpg
 
 zh-CN:
   title: 机器人遥操作系统
   subtitle:
-  image: assets/img/portfolio/teleoperation-thumbnail.jpg
+  image: assets/img/portfolio/teleoperation.jpg
   alt:
 
   caption:

@@ -1,12 +1,12 @@
 ---
 en:
-  title: Multi-modal Data Annotation System
+  title: Annotation System
   subtitle:
   image: assets/img/portfolio/data.jpg
   alt:
 
   caption:
-    title: Multi-modal Data Annotation System
+    title: Annotation System
     subtitle:
     thumbnail: assets/img/portfolio/data-thumbnail.jpg
 

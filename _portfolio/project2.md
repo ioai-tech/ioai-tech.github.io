@@ -20,6 +20,7 @@ zh-CN:
     title: 多模态具身数据
     subtitle:
     thumbnail: assets/img/portfolio/visualization-thumbnail.jpg
+
 ---
 
 {% if site.locale == "zh-CN" %}
@@ -31,7 +32,9 @@ zh-CN:
 {% else %}
 
 We provide high quality embodiment data of varies scenes.
+
 {:.list-inline}
+
 - Date: Sep. 2023
 - Category: Projects
 
