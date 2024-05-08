@@ -2,24 +2,25 @@
 en:
   title: Embodied Data
   subtitle:
-  image: assets/img/portfolio/data.jpg
+  image: assets/img/portfolio/visualization.gif
   alt: Embodied Data
 
   caption:
     title: Embodied Data
     subtitle:
-    thumbnail: assets/img/portfolio/data-thumbnail.jpg
+    thumbnail: assets/img/portfolio/visualization-thumbnail.jpg
 
 zh-CN:
   title: 多模态具身数据
   subtitle:
-  image: assets/img/portfolio/data.jpg
+  image: assets/img/portfolio/visualization.gif
   alt: Embodied Data
 
   caption:
     title: 多模态具身数据
     subtitle:
-    thumbnail: assets/img/portfolio/data-thumbnail.jpg
+    thumbnail: assets/img/portfolio/visualization-thumbnail.jpg
+
 ---
 
 {% if site.locale == "zh-CN" %}
@@ -31,7 +32,9 @@ zh-CN:
 {% else %}
 
 We provide high quality embodiment data of varies scenes.
+
 {:.list-inline}
+
 - Date: Sep. 2023
 - Category: Projects
 
