@@ -2,7 +2,7 @@
 en:
   title: Embodied Data
   subtitle:
-  image: assets/img/portfolio/visualization.jpg
+  image: assets/img/portfolio/visualization.gif
   alt: Embodied Data
 
   caption:
@@ -13,7 +13,7 @@ en:
 zh-CN:
   title: 多模态具身数据
   subtitle:
-  image: assets/img/portfolio/visualization.jpg
+  image: assets/img/portfolio/visualization.gif
   alt: Embodied Data
 
   caption:

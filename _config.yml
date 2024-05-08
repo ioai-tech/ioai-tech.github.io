@@ -25,7 +25,7 @@ logo:     #optional, defaults to site title
   path: assets/img/logo-w.png
   height: 50 #height in px, defaults to 52px
 
-locale: "zh-CN" # See available languages in _data/sitetext.yml
+locale: "en" # See available languages in _data/sitetext.yml
 
 analytics:
   google: "G-CD6Y0KS9CM" #Google Analytics tracking code here
