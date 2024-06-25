@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Open-source Dataset"
         year: "2024.06"
-        desc: "Release open-source [dataset](/assets/files/OnePage-Introduction.pdf), join the [waiting list](https://forms.gle/SqemTc8Mq1Ybq2Lx8)"
+        desc: "Release open-source [dataset](/en/assets/files/OnePage-Introduction.pdf), join the [waiting list](https://forms.gle/SqemTc8Mq1Ybq2Lx8)"
         image: assets/img/timeline/dataset.jpg
         alt:
         # align: left
@@ -196,7 +196,7 @@ zh-CN:
         alt:
       - title: "开源数据集"
         year: "2024.06"
-        desc: "[开源数据集介绍](/assets/files/OnePage-Introduction.pdf)，加入[等待队列](https://forms.gle/SqemTc8Mq1Ybq2Lx8)"
+        desc: "[开源数据集介绍](/zh-cn/assets/files/OnePage-Introduction.pdf)，加入[等待队列](https://forms.gle/SqemTc8Mq1Ybq2Lx8)"
         image: assets/img/timeline/dataset.jpg
         alt:
         # align: left
