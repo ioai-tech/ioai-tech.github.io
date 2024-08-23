@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Empowering the future with AI&Robotics innovation
     text: IO the World
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "Services"
@@ -59,10 +59,10 @@ en: &DEFAULT_EN
         desc: "Complete a set of robot teleoperation system"
         image: assets/img/timeline/teleoperation.jpg
         alt:
-      - title: "ICRA2024"
-        year: "2024.05"
-        desc: "We plan to show our progress in the ICRA, see u in Yokohama"
-        image: assets/img/timeline/icra2024.jpg
+      - title: "Open-source Dataset"
+        year: "2024.06"
+        desc: "Release open-source [dataset](/en/assets/files/OnePage-Introduction.pdf), join the [waiting list](https://forms.gle/SqemTc8Mq1Ybq2Lx8)"
+        image: assets/img/timeline/dataset.jpg
         alt:
         # align: left
     end: "<br/>IO the World"
@@ -149,7 +149,7 @@ zh-CN:
     title: 用AI和机器人创新赋予未来力量
     text: IO the World
     button: 了解更多
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "服务"
@@ -194,10 +194,10 @@ zh-CN:
         desc: "完成一套机器人遥操作系统"
         image: assets/img/timeline/teleoperation.jpg
         alt:
-      - title: "ICRA 2024"
-        year: "2024.05"
-        desc: "我们将会在ICRA 2024展示成果，敬请期待"
-        image: assets/img/timeline/icra2024.jpg
+      - title: "开源数据集"
+        year: "2024.06"
+        desc: "[开源数据集介绍](/zh-cn/assets/files/OnePage-Introduction.pdf)，加入[等待队列](https://forms.gle/SqemTc8Mq1Ybq2Lx8)"
+        image: assets/img/timeline/dataset.jpg
         alt:
         # align: left
     end: "<br/>IO the World"
